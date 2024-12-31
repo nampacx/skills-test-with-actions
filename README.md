@@ -1,4 +1,4 @@
-![example branch parameter.](https://github.com/nampacx/skills-test-with-actions/actions/workflows/ci.yml/badge.svg?branch=nampacx-patch-1)
+[![CI](https://github.com/nampacx/skills-test-with-actions/actions/workflows/ci.yml/badge.svg?branch=nampacx-patch-1)](https://github.com/nampacx/skills-test-with-actions/actions/workflows/ci.yml)
 
 
 <header>
